@@ -2,8 +2,8 @@
 
 ## Part 1
 Thids is README.
-- item1
-- iten2
+- itemA
+- itenB
 
 ## Part 2
 1. sunday
